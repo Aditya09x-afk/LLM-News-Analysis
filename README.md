@@ -51,7 +51,7 @@ The project addresses the challenge of organizing and consuming massive streams 
 ## 🖼 System Architecture
 Below is the **IntelliNews Processing Framework** flowchart that illustrates the complete pipeline from training to real-time deployment:
 
-![IntelliNews Processing Framework](AouXSGMnRJv7RUsPMSx9X.jpeg)
+![IntelliNews Processing Framework](Flow_Chart.png)
 
 ---
 
